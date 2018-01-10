@@ -1,5 +1,4 @@
 #!groovy
-#jone tester
 
 @Library('MicroserviceBuilder') _
 microserviceBuilderPipeline {
